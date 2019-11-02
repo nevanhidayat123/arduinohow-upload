@@ -1,2 +1,2 @@
 # arduinohow-upload
-This Repository Contain Components And Software To Upload Code Into The Arduino + Step By Step Uploading To Arduino.
+This Repository Contain _Components And Software_ To Upload Code Into The **Arduino** + Step By Step Uploading To **Arduino**.
